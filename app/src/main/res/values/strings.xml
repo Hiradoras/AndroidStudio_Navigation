@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Navigation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="water_fragment">Water Fragment</string>
+
+    <string name="earth_fragment">Earth Fragment</string>
+    <string name="fire_fragment">Fire Fragment</string>
+    <string name="air_fragment">Air Fragment</string>
+    <string name="todo">TODO</string>
+</resources>

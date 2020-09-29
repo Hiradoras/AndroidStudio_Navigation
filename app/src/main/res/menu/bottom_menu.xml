@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/waterFragment"
+        android:title="Water"
+        android:icon="@drawable/ic_water" />
+    <item
+        android:id="@+id/earthFragment"
+        android:title="Earth"
+        android:icon="@drawable/ic_earth"/>
+    <item
+        android:id="@+id/fireFragment"
+        android:title="Fire"
+        android:icon="@drawable/ic_fire"/>
+    <item
+        android:id="@+id/airFragment"
+        android:title="Air"
+        android:icon="@drawable/ic_air"/>
+</menu>
